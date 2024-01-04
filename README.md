@@ -7,11 +7,11 @@ The Alibaba Reviews Dataset contains Raw Data, Annotated Data, for Natural Langu
 3. The Dataset was constructed and built for academic purpose only. The usage of the Dataset should be strcitly limited to academic purpose.
 
 ## Dataset Conponents
-* **Alibaba_Reviews_Dataset.csv**: There are 2,693 reviews in total, with one column of reviews, and one columns of rating stars (maximum 5 stars, minimum 1 star).
-* **Ali_train.csv**: 2,153 reviews randomly chosen as the training dataset. 
-* **Ali_test.csv**: 540 reviews randomly chosen as the test dataset.
-* **Ali-train.atepc**: Auto-Annotated + Manually Annotated atepc file on Ali-train.csv
-* **Ali-test.atepc**: Auto-Annotated + Manually Annotated atepc file on Ali-test.csv
+* **Alibaba-Reviews-Dataset.csv**: There are 2,693 reviews in total, with one column of reviews, and one columns of rating stars (maximum 5 stars, minimum 1 star).
+* **ali-train.csv**: 2,153 reviews randomly chosen as the training dataset. 
+* **ali-test.csv**: 540 reviews randomly chosen as the test dataset.
+* **ali-train.atepc**: Auto-Annotated + Manually Annotated atepc file on Ali-train.csv
+* **ali-test.atepc**: Auto-Annotated + Manually Annotated atepc file on Ali-test.csv
 
 ## Furtuer Exploration
 * [Ali-Experience Website](https://aliexperience.online/)
