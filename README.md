@@ -15,7 +15,7 @@ The Alibaba Reviews Dataset contains Raw Data, Annotated Data, for Natural Langu
 
 ## Furtuer Exploration
 * [Koukotsukan/Ali-Experience Website](https://aliexperience.online/)
-* [Koukotsukan/Aspect_based_Sentiment_Analysis_to_Get_Insights_into_an_Online_Shopping_Experience_The_Case_of_Alibaba](https://github.com/Koukotsukan/Aspect-based-Sentiment-Analysis-on-Online-Shopping-Experience-The-Case-of-Alibaba)
+* [Koukotsukan/Aspect_based_Sentiment_Analysis_to_Get_Insights_into_an_Online_Shopping_Experience_The_Case_of_Alibaba](https://github.com/Koukotsukan/Aspect_based_Sentiment_Analysis_to_Get_Insights_into_Online_Shopping_Experience_The_Case_of_Alibaba)
 
 ## Acknowledgements
 This project makes use of several open-source packages, including:
