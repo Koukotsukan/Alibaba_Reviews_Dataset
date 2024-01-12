@@ -1,4 +1,6 @@
 # Alibaba_Reviews_Dataset
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license) [![issues - Alibaba_Reviews_Dataset](https://img.shields.io/github/issues/Koukotsukan/Alibaba_Reviews_Dataset)](https://github.com/Koukotsukan/Alibaba_Reviews_Dataset/issues) <img src="https://img.shields.io/badge/Rows-2693-2ea44f" alt="Rows - 2693">
+
 The Alibaba Reviews Dataset contains Raw Data, Annotated Data, for Natural Language Processing Task or Aspect-based Sentiment Analysis.
 
 ## Introduction
